@@ -6,9 +6,9 @@
 
 <h3 align="left">👨🏻‍💻 About me:</h3>
 Software, web and application developer with +2 years experience.
-<br>
+<br><br>
 I am a proactive, communicative and adaptable person, allowing me to easily perform the tasks assigned to me in a short amount of time. Also, my critical thinking and time management help to take the best decisions for the project and team. Teamworking is very important to me because it helps to improve the results of the jobs I work in.
-<br>
+<br><br>
 I aspire to develop my personal and professional aptitudes, always looking to expand my knowledge. I want to contribute to a renowned company to greatly apport to it and support the develop of society.<br><br>📚 Always willing to learn more.<br>🤝 I love working on this, it drives me to excel myself, and to find my great capabilities. 
 
 <br/>
